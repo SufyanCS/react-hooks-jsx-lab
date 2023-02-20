@@ -18,6 +18,10 @@ h6 {
   font-family: "Playfair Display", serif;
   margin-bottom: 1em;
 }
+h1{
+  color: firebrick;
+  font-weight: bolder;
+}
 
 nav {
   position: fixed;
